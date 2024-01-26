@@ -5,7 +5,7 @@ from colorama import Fore
 colorama.init()
 
 def py():
-    a=input("\x46\x69\x6c\x65\x4e\x61\x6d\x65\x20\x3a")
+    a=input("FileName :")
     os.system(f"pyarmor-7 o {a}") 
 print('''
      ▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
@@ -14,9 +14,9 @@ print('''
   █░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
  █▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
 █▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█                                            
-█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█     \x59\x6f\x75\x74\x75\x62\x65\x20\x3a\x20\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x79\x6f\x75\x74\x75\x62\x65\x2e\x63\x6f\x6d\x2f\x40\x47\x72\x77\x62
+█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█     Discord : https://discord.gg/qM7yvwFeDg
  █▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
-  █░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░░█     \x44\x69\x73\x63\x6f\x72\x64\x20\x53\x65\x72\x76\x65\x72\x20\x3a\x20\x68\x74\x74\x70\x73\x3a\x2f\x2f\x64\x69\x73\x63\x6f\x72\x64\x2e\x67\x67\x2f\x6d\x73\x6e  
+  █░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░░█     Github : https://github.com/MasonGroup 
    █░░██░░▀█▄▄▄█▄▄█▄████░░░█
    █░░░▀▀▄░█░░░█░███████░░█
     ▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░░█
@@ -24,6 +24,5 @@ print('''
         ▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
             ▀▄▄▄▄▄▄▄▄▄▄█
 
-\x7b\x43\x6f\x6c\x6f\x71\x75\x65\x20\x73\x65\x75\x20\x61\x72\x71\x75\x69\x76\x6f\x20\x6e\x6f\x20\x6d\x65\x73\x6d\x6f\x20\x63\x61\x6d\x69\x6e\x68\x6f\x20\x64\x61\x20\x66\x65\x72\x72\x61\x6d\x65\x6e\x74\x61\x7d
-''')
+{ Coloque seu arquivo no mesmo caminho da ferramenta }''')
 py()
